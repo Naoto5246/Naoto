@@ -1,2 +1,3 @@
-# Naoto
-個人リポジトリ
+# About me
+個人リポジトリ。
+NaotoによるNaotoのためのGitHub。
